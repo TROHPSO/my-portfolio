@@ -5,6 +5,7 @@ export const personalInfo = {
   github: "https://github.com/TROHPSO",
   linkedin: "https://www.linkedin.com/in/raphaël-telesphort",
   cv: "https://drive.google.com/file/d/1-CIUKWlFCL9X584zLpbOPIIg9gtcUrvz/view?usp=sharing",
+  veille: "https://docs.google.com/document/d/1XWHoTesrqy_YIv_Xd7FSCDOsJn6pEp17xvPJbJAXr0g/edit?usp=sharing"
 };
 
 export const workExperience = [
@@ -145,7 +146,7 @@ export const projects = [
 export const awards = [
   {
     name: "Webcup Start-up Weekend 2024",
-    issuer: "IEEE",
+    issuer: "Webcup",
     date: "Sep 2024",
     type: "Locale",
     position: "3ème Place",
@@ -155,7 +156,7 @@ export const awards = [
     issuer: "Association EPA",
     date: "Feb 2023",
     type: "Locale",
-    position: "Second Runner-up",
+    position: "❌",
   },
  
 ];
