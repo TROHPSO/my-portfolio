@@ -99,7 +99,7 @@ export default function HeroSection() {
               </motion.a>
               
               <motion.a
-                href={personalInfo.cv}
+                href={personalInfo.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
