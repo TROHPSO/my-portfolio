@@ -5,7 +5,9 @@ export const personalInfo = {
   github: "https://github.com/TROHPSO",
   linkedin: "https://www.linkedin.com/in/raphaël-telesphort",
   cv: "https://drive.google.com/file/d/1-CIUKWlFCL9X584zLpbOPIIg9gtcUrvz/view?usp=sharing",
+  tableau: "https://docs.google.com/spreadsheets/d/1XTmoXPp7lcoduPbrXcTQ-Cuf6XzxwZxb/edit?usp=sharing&ouid=107823593313886900794&rtpof=true&sd=true",
   veille: "https://docs.google.com/document/d/1XWHoTesrqy_YIv_Xd7FSCDOsJn6pEp17xvPJbJAXr0g/edit?usp=sharing"
+  
 };
 
 export const workExperience = [
@@ -104,7 +106,7 @@ export const skills = {
 export const projects = [
   {
     title: "ERP Pharmacy",
-    github: "https://github.com/rishikesh2003/Prodigi",
+    github: "https://github.com/TROHPSO/ERPharmacieJavaFX",
     description: [
       "Une application de bureau de pharmacie qui offre des fonctionnalités telles que la gestion des stocks, le suivi des ventes et la gestion des clients.",
       "Utilisation de Java et son framework JavaFX pour le développement de l'interface utilisateur et de la logique métier.",
@@ -114,7 +116,7 @@ export const projects = [
   },
   {
     title: "Parcmètre",
-    github: "https://github.com/rishikesh2003/mental-aarog",
+    github: "",
     description: [
       "Réalisation d'une application Mobile Android pour la gestion des parcs de stationnements.",
       "Utilisation de Kotlin pour le développement de l'application Android.",
@@ -124,7 +126,7 @@ export const projects = [
   },
   {
     title: "Moduls",
-    github: "https://github.com/rishikesh2003/mental-aarog",
+    github: "https://github.com/ZabouG/Moduls",
     description: [
       "Dévellopeemnt d'une application web de gestion de contenu sous forme de forum.",
       "Utilisation des technologies Docker et Docker Compose pour le déploiement de l'application.",
@@ -134,7 +136,7 @@ export const projects = [
   },
   {
     title: "AgrégaWeb",
-    github: "https://github.com/rishikesh2003/mental-aarog",
+    github: "",
     description: [
       "Création d'une application agrégateur de Flux RSS.",
       "Ecrit en PHP.",
