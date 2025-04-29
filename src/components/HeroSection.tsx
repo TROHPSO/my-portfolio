@@ -156,10 +156,10 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Actuellement étudiant, développeur spécialisé en SLAM (Solution Logiciel Application Métier) en BTS SIO 
-              (Service Informatique aux organisations) à Saint-Joseph. J'aspire à devenir Software Engineer dans le domaine 
-              de la programmation graphique, visant à améliorer la recherche et le développement dans le domaine des logiciels 
-              de conception 3D et de réalité virtuelle.
+              🚀 Actuellement étudiant et développeur spécialisé en SLAM (Solution Logiciel Application Métier) en 
+              BTS SIO (Services Informatiques aux Organisations) à Saint-Joseph,
+              j'aspire à devenir Software Engineer dans le domaine de la programmation graphique.
+              Je vise à améliorer la recherche et le développement dans le domaine des logiciels de conception 3D et de réalité virtuelle.
             </p>
           </div>
         </MotionWrapper>

@@ -17,8 +17,8 @@ export const workExperience = [
     position: "Stagiaire - Développeur Web",
     period: "Mar 2024 - Present",
     achievements: [
-      "Écriture d'un programme sur un environnement virtuel Python avec VS Code pour réaliser une Mini API de gestion de documents pour la CDGI (Service de la Connaissance documentaire et gestion de l'information)",
-      "Création d'un Dashboard avec le framework Symfony PHP initié avec Composer et Scoop en tant que gestionnaire de paquets",    ],
+      "Écriture d'un programme dans un environnement virtuel Python avec VS Code pour réaliser une mini API de gestion de documents pour la CDGI (Service de la Connaissance Documentaire et Gestion de l'Information).",
+      "Création d'un dashboard avec le framework Symfony en PHP, initié avec Composer et Scoop en tant que gestionnaires de paquets.",    ],
   },
   {
     company: "Collège Henri Matisse",
@@ -26,12 +26,12 @@ export const workExperience = [
     position: "Stagiaire - Technicien Informatique",
     period: "Mar 2023 - Mar 2024",
     achievements: [
-      "Gestion & maintenance d'un parc informatique et réseau de plus de 200 postes",
-      "Déploiement d'images en multicast avec FOG PROJECT sur un parc informatique",
+      "Gestion et maintenance d'un parc informatique et réseau de plus de 200 postes",
+      "Déploiement d'images en multicast avec FOG Project sur un parc informatique",
       "Mise en place d'un système de surveillance des postes avec Veyon",
       "Gestion des comptes utilisateurs",
       "Gestion des imprimantes",
-      "Développement d'une application de Web Radio",
+      "Développement d'une application de web radio"
     ],
   },
   {
@@ -40,9 +40,9 @@ export const workExperience = [
     position: "Dévellopeur Web",
     period: "Sep 2024",
     achievements: [
-      "Participation à la Startup Weekend 2024 Woman Edition",
-      "Réalisatation d'un concept d'application mobile en 3 jours",
-      "Début de la programmation avec React Native",      
+      "Participation à la Startup Weekend 2024 Women Edition",
+      "Réalisation d'un concept d'application mobile en 3 jours",
+      "Début de la programmation avec React Native"
     ],
   },
 ];
@@ -108,39 +108,39 @@ export const projects = [
     title: "ERP Pharmacy",
     github: "https://github.com/TROHPSO/ERPharmacieJavaFX",
     description: [
-      "Une application de bureau de pharmacie qui offre des fonctionnalités telles que la gestion des stocks, le suivi des ventes et la gestion des clients.",
-      "Utilisation de Java et son framework JavaFX pour le développement de l'interface utilisateur et de la logique métier.",
-      "Structure de project MVC (Modèle Vue Contrôleur) pour une architecture modulaire et maintenable.",
-      "Communication avec une base de données MySQL pour stocker les données des clients, des produits et des commandes.",
+    "Une application de bureau pour pharmacie qui offre des fonctionnalités telles que la gestion des stocks, le suivi des ventes et la gestion des clients.",
+    "Utilisation de Java et de son framework JavaFX pour le développement de l'interface utilisateur et de la logique métier.",
+    "Structure de projet MVC (Modèle-Vue-Contrôleur) pour une architecture modulaire et maintenable.",
+    "Communication avec une base de données MySQL pour stocker les données des clients, des produits et des commandes."
     ],
   },
   {
     title: "Parcmètre",
     github: "",
     description: [
-      "Réalisation d'une application Mobile Android pour la gestion des parcs de stationnements.",
+      "Réalisation d'une application mobile Android pour la gestion des parcs de stationnement.",
       "Utilisation de Kotlin pour le développement de l'application Android.",
-      "Utilisation de L'API Google Sheets pour la gestion des données.",
-      "Capacité intéllligente de scanne avec la caméra pour scanner les codes QR.",
+      "Utilisation de l'API Google Sheets pour la gestion des données.",
+      "Capacité intelligente de scan avec la caméra pour scanner les codes QR."
     ],
   },
   {
     title: "Moduls",
     github: "https://github.com/ZabouG/Moduls",
     description: [
-      "Dévellopeemnt d'une application web de gestion de contenu sous forme de forum.",
+      "Développement d'une application web de gestion de contenu sous forme de forum.",
       "Utilisation des technologies Docker et Docker Compose pour le déploiement de l'application.",
-      "Back-End et Front-End séparés pour une meilleure maintenabilité.",
-      "Ecrit en PHP et javascript.",
+      "Back-end et front-end séparés pour une meilleure maintenabilité.",
+      "Écrit en PHP et JavaScript."
     ],
   },
   {
     title: "AgrégaWeb",
     github: "",
     description: [
-      "Création d'une application agrégateur de Flux RSS.",
-      "Ecrit en PHP.",
-      "Communication avec une base de données MySQL pour stocker les données des flux RSS.",
+      "Création d'une application agrégateur de flux RSS.",
+      "Écrit en PHP.",
+      "Communication avec une base de données MySQL pour stocker les données des flux RSS."
     ],
   },
 ];
